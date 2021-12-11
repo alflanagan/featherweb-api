@@ -1,3 +1,8 @@
+django-debug-toolbar
+factory-boy
+coverage
+django_coverage_plugin
+djhtml
 ipython
 black
 isort

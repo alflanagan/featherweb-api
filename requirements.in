@@ -1,1 +1,7 @@
 Django
+django-environ
+structlog
+psycopg2-binary
+django-redis
+gunicorn
+whitenoise
